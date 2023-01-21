@@ -6,5 +6,3 @@
 
 The projects under the 'Portfolio' star are all my own work.
 View the live sites at: https://louise-pike.netlify.app/
-
-The projects where the repository name starts as "frontend-mentor-" are all frontend challenges completed from the page frontendmentor.io, whereby I built the page using the designs and assets provided.
