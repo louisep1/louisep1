@@ -6,3 +6,6 @@
 
 The projects under the 'Portfolio' star are all my own work.
 View the live sites at: https://louise-pike.netlify.app/
+
+Contact me on LinkedIn!
+https://www.linkedin.com/in/louise-pike-82b2b9247/
